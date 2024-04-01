@@ -1,2 +1,3 @@
-# bradesco_htmlcssjl
-Site simples usando HTML, CSS e JavaScrips
+Site simples usando HTML, CSS e JavaScript
+
+Curso Fundação Bradesco
